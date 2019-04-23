@@ -1,0 +1,4 @@
+from models import *
+Base.metadata.create_all(engine)
+
+this creates the database 
